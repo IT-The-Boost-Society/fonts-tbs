@@ -1,0 +1,80 @@
+@font-face {
+  font-family: 'CooperExtraBoldItalic';
+  src: url('https://it-the-boost-society.github.io/fonts-tbs/tbs/Cooper-ExtraBoldItalic.woff2') format('woff2');
+  font-weight: 800;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'CooperBold';
+  src: url('https://it-the-boost-society.github.io/fonts-tbs/tbs/Cooper-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CooperExtraBold';
+  src: url('https://it-the-boost-society.github.io/fonts-tbs/tbs/Cooper-ExtraBold.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CooperBlackItalic';
+  src: url('https://it-the-boost-society.github.io/fonts-tbs/tbs/Cooper-BlackItalic.woff2') format('woff2');
+  font-weight: 900;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'CooperBoldItalic';
+  src: url('https://it-the-boost-society.github.io/fonts-tbs/tbs/Cooper-BoldItalic.woff2') format('woff2');
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'CooperBlack';
+  src: url('https://it-the-boost-society.github.io/fonts-tbs/tbs/Cooper-Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CooperSemiBold';
+  src: url('https://it-the-boost-society.github.io/fonts-tbs/tbs/Cooper-SemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CooperMedium';
+  src: url('https://it-the-boost-society.github.io/fonts-tbs/tbs/Cooper-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CooperItalicWght';
+  src: url('https://it-the-boost-society.github.io/fonts-tbs/tbs/Cooper-Italic[wght].woff2') format('woff2');
+  font-style: italic;
+}
+@font-face {
+  font-family: 'CooperRegular';
+  src: url('https://it-the-boost-society.github.io/fonts-tbs/tbs/Cooper-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CooperWght';
+  src: url('https://it-the-boost-society.github.io/fonts-tbs/tbs/Cooper[wght].woff2') format('woff2');
+}
+@font-face {
+  font-family: 'CooperSemiBoldItalic';
+  src: url('https://it-the-boost-society.github.io/fonts-tbs/tbs/Cooper-SemiBoldItalic.woff2') format('woff2');
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'CooperMediumItalic';
+  src: url('https://it-the-boost-society.github.io/fonts-tbs/tbs/Cooper-MediumItalic.woff2') format('woff2');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'CooperItalic';
+  src: url('https://it-the-boost-society.github.io/fonts-tbs/tbs/Cooper-Italic.woff2') format('woff2');
+  font-style: italic;
+}
